@@ -1,0 +1,7 @@
+# CLion
+.idea/
+
+# Build
+build/
+*.dol
+*.elf
